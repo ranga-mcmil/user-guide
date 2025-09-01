@@ -82,10 +82,12 @@ This guide will help you learn how to use the new inventory management features 
 7. Click **"Create Product"**
 
 ### Processing an Order with Allocations
-1. Create the order as usual
-2. Go to **Allocations** → **Order Allocations**
-3. Find your order in the list
-4. For each item in the order:
+1. Go to **Orders** page
+2. Find the order you want to allocate items for
+3. Either:
+   - Click the **"Manage Allocation"** button in the orders table, OR
+   - Click on the order row to view details, then click **"Manage Allocation"** button
+4. For each order item:
    - Select the order item
    - Choose available batch items
    - Enter quantity to allocate
