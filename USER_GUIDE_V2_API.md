@@ -68,29 +68,7 @@ This guide will help you learn how to use the new inventory management features 
 
 **Example**: When a customer orders 10 IBR sheets, you can allocate 10 specific sheets from a particular batch.
 
-## Updated Product Management
 
-### New Product Fields
-When creating or editing products, you'll now see these new fields:
-
-- **Formula**: Choose a formula for automatic calculations
-- **Type**: Select how the product is measured (Length/Width, Weight, Quantity, Unknown)
-- **Referable**: Check if this product is eligible for referral commissions
-- **Referrable Percentage**: Set the commission percentage for referrals
-
-### Product Table Changes
-The products table now shows:
-- Formula name
-- Product type
-- Referable status (with a badge)
-
-## Navigation Changes
-
-### New Menu Items
-You'll see these new options in the main menu:
-- **Codes** (for Admin and Manager roles)
-- **Batch Items** (for Admin and Manager roles)
-- **Product Formulas** (under Products → Manage Attributes)
 
 ## Step-by-Step Workflows
 
